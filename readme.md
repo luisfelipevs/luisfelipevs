@@ -15,7 +15,7 @@
 
 ### Sobre mim
 
-Formado em Ciência da Computação e Pós graduado em Arquitetura de Software e Soluções, possuo mais de 15 anos de experiência em desenvolvimento de sistemas atuando com Back-end e Front-end.
+Formado em Ciência da Computação e Pós-graduado em Arquitetura de Software e Soluções, possuo mais de 15 anos de experiência em desenvolvimento de sistemas atuando com Back-end e Front-end.
 Aqui, quero compartilhar um pouco dos meus trabalhos, estudos e alguns projetos que podem ajudar a todos!
 
 Algumas ferramentas e linguagens que utilizo:
